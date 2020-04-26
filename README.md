@@ -13,3 +13,4 @@ Submission for the Beatdapp coding challenge, built with React, Express, and Mon
 
 ## Notes
 - The interface is a little finicky and may not update on add or remove, however a refresh of the page will fix it.
+- The important code can be found in /BackEnd/routes/users.js and /client/src/App.js with /client/src/App.css for styling 
