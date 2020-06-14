@@ -1,6 +1,6 @@
-# Beatdapp_CodeChallenge
+# Expense Tracker
 
-Submission for the Beatdapp coding challenge, built with React, Express, and MongoDB
+A simple expense tracker, built with React, Express, and MongoDB
 
 ## Installation
 1. Clone the repository
